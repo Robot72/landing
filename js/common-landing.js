@@ -1,4 +1,4 @@
-CommonLanding = {};
+var CommonLanding = {};
 //CSS-Selectors and config:
 CommonLanding.email = '#email';
 CommonLanding.phone = '#phone';
